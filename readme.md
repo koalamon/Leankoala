@@ -1,3 +1,3 @@
 # Leankoala
 
-This repository is used to report bugs and idead for leankoala.
+This repository is used to report bugs and ideas for leankoala.
